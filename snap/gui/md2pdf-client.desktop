@@ -1,7 +1,7 @@
 [Desktop Entry]
 Terminal=true
 Name=md2pdf Client
-Exec=md2pdf-client --file %f
+Exec=md2pdf-client %f
 Type=Application
 Icon=${SNAP}/meta/gui/icon.svg
 Encoding=UTF-8
