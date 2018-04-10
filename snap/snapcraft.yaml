@@ -1,5 +1,5 @@
 name: md2pdf-client
-version: 0.2.0
+version: 0.2.1
 summary: Use an md2pdf server to render Markdown text into a pretty PDF
 description: |
     md2pdf is a little project that aims to make it easy to produce \
