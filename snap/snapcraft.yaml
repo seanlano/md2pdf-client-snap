@@ -1,5 +1,5 @@
 name: md2pdf-client
-version: 0.2.2
+version: 1.0.0
 summary: Use an md2pdf server to render Markdown text into a pretty PDF
 description: |
     md2pdf is a little project that aims to make it easy to produce \
@@ -26,7 +26,7 @@ parts:
     python-version: python3
     source-type: git
     source: https://github.com/seanlano/md2pdf-client.git
-    source-tag: v0.2.2
+    source-tag: v1.0.0
     requirements: requirements.txt
 
 apps:
